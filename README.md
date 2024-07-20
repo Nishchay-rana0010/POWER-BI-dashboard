@@ -25,7 +25,7 @@ The Credit Card Customer Report Power BI Dashboard offers detailed insights into
 
 ![cc_customer](https://github.com/user-attachments/assets/40c03e1c-8b3b-44a8-af5a-a1c810be518f)
 
-<h4>key insights:</h4>
+<h4>Key insights:</h4>
 1)Spending patterns by demographic attributes such as age, gender, and income level. This helps in understanding the customer base and designing targeted marketing campaigns.<br>
 2)Revenue generated, interest earned and total profit based on gender, income group, marital status, etc.<br>
 3)Revenue generated in different quarters of the year.<br>
