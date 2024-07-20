@@ -4,8 +4,8 @@
 The Credit Card Transaction Report Power BI Dashboard provides a comprehensive overview of credit card transactions. It visualizes key metrics such as total transactions, average transaction value, transaction volume trends, and top spending categories. This dashboard helps stakeholders quickly identify spending patterns, detect anomalies, and make informed decisions to optimize transaction processing and customer engagement strategies.
 <br>
 
+![cc_transaction](https://github.com/user-attachments/assets/a88849a4-f85e-400d-9e27-8a22aed1e2e0)
 
-![cc_transaction](https://github.com/user-attachments/assets/1c7e8ac3-e376-4736-bf33-29cd618efbe0)
 
 <h4>Key Insights:</h4>
 1)Total Transactions: The total number of transactions processed over a specific period.<br>
@@ -23,7 +23,8 @@ The Credit Card Customer Report Power BI Dashboard offers detailed insights into
 <br>
 
 
-![cc_customer](https://github.com/user-attachments/assets/40c03e1c-8b3b-44a8-af5a-a1c810be518f)
+![cc_customer](https://github.com/user-attachments/assets/f7a04d7f-46c7-47e8-8fc9-8db43009dbca)
+
 
 <h4>Key insights:</h4>
 1)Spending patterns by demographic attributes such as age, gender, and income level. This helps in understanding the customer base and designing targeted marketing campaigns.<br>
