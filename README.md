@@ -7,13 +7,13 @@ The Credit Card Transaction Report Power BI Dashboard provides a comprehensive o
 ![cc_transaction](https://github.com/user-attachments/assets/a88849a4-f85e-400d-9e27-8a22aed1e2e0)
 
 
-<h4>Key Insights:</h4>
-1)Total Transactions: The total number of transactions processed over a specific period.<br>
-2)Transaction Trends: Changes in transaction volumes over time (daily, weekly, monthly).<br>
-3)Demographic Insights: Analysis of spending patterns by demographic attributes such as age, gender, location.<br>
-4)Payment Method Distribution: The distribution of transactions across different payment methods (e.g., credit, debit, mobile payments).<br>
-5)Trends in Payment Methods: Changes in the usage of different payment methods over time.<br>
-6)Revenues generated based on card type, education level, job, etc.<br>
+<h4>Key Takeaways:</h4>
+Dominance of Blue Card: The Blue Card category is the most profitable, contributing significantly to the overall revenue and transaction volume.
+Stable Revenue Across Quarters: Despite a slight decline in Q4, the revenue and transaction volume remain relatively stable throughout the year.
+Graduate Segment: Graduates are the highest contributing group in terms of revenue, indicating their significant role in the credit card market.
+Expenditure Types: Bills and entertainment are the top categories where most revenue is generated, suggesting these are major spending areas for cardholders.
+Swipe Transactions: Swipe transactions dominate the payment methods, contributing the most to revenue compared to chip and online transactions.
+Businessman and Professional Segments: Businessmen and professionals (white-collar, self-employed) are key customer segments, driving substantial revenue<br>
 
 
  <h2> Credit Card Customer Report Power BI Dashboard</h2>
@@ -27,10 +27,25 @@ The Credit Card Customer Report Power BI Dashboard offers detailed insights into
 
 
 <h4>Key insights:</h4>
-1)Spending patterns by demographic attributes such as age, gender, and income level. This helps in understanding the customer base and designing targeted marketing campaigns.<br>
-2)Revenue generated, interest earned and total profit based on gender, income group, marital status, etc.<br>
-3)Revenue generated in different quarters of the year.<br>
-4)Top 5 cities generating highest revenue by credit card transactioning.<br>
+Gender Comparison:
+
+Males generally contribute more revenue across various segments (age, state, marital status, income group, dependents, education level).
+Females also contribute significantly, especially in higher education and certain states.
+Age and Income Insights:
+
+The 40-50 age group is the highest revenue contributor.
+High-income groups contribute significantly more revenue, particularly from males.
+Geographical Insights:
+
+Major revenue comes from states like Texas, New York, and California, with males slightly leading in revenue contribution.
+Marital Status and Dependents:
+
+Married individuals contribute more revenue compared to single individuals.
+Those with dependents (particularly 2 dependents) show higher revenue contributions.
+Education Level:
+
+Graduates contribute the most revenue, with males leading slightly.
+High school graduates and uneducated individuals also show significant contributions<br>
 
 
 
