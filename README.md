@@ -28,22 +28,21 @@ The Credit Card Customer Report Power BI Dashboard offers detailed insights into
 
 <h4>Key insights:</h4>
 Gender Comparison:
-
 Males generally contribute more revenue across various segments (age, state, marital status, income group, dependents, education level).
 Females also contribute significantly, especially in higher education and certain states.
-Age and Income Insights:
 
+Age and Income Insights:
 The 40-50 age group is the highest revenue contributor.
 High-income groups contribute significantly more revenue, particularly from males.
+
 Geographical Insights:
-
 Major revenue comes from states like Texas, New York, and California, with males slightly leading in revenue contribution.
-Marital Status and Dependents:
 
+Marital Status and Dependents:
 Married individuals contribute more revenue compared to single individuals.
 Those with dependents (particularly 2 dependents) show higher revenue contributions.
-Education Level:
 
+Education Level:
 Graduates contribute the most revenue, with males leading slightly.
 High school graduates and uneducated individuals also show significant contributions<br>
 
